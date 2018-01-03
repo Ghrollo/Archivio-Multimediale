@@ -8,6 +8,10 @@ import myutil.MyMenu;
 
 public class Main {
 	
+	//MODIFICA
+	
+	private final static String HEYOWHATUP = "HEYYOWHATUPMAYNNNNNEENNENENE";
+	
 	private final static String ESCI = "ESCI";
 	private final static String INDIETRO = "INDIETRO";
 	private final static String RIPROVA_OR_ESCI = "\nRiprova o digita "+ESCI+" per tornare indietro";
